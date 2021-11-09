@@ -1,5 +1,6 @@
 import React from 'react'
 import Logo from './robinhood.svg'
+import './Header.css'
 
 function Header() {
     return (

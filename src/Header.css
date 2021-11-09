@@ -1,0 +1,12 @@
+.header__logo {
+    left: 48px;
+}
+
+.header__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 64px;
+    color: white;
+}
+
